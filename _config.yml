@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.006749643
 color:
-  saturation: 0.1366596
-  lightness: 0.8680446
+  saturation: 0.5035842
   brandStrength: 0.9874552
+  lightness: 0.3655914
   brandColors:
     - '#010103'
     - '#4C87A9'
     - '#284169'
     - '#98623C'
     - '#565776'
-  rhythmicContrast: 0.4155117
+  rhythmicContrast: 0.8673835
+layout_spectrum: 1
 name: sherrikauk
