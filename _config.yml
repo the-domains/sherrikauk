@@ -10,9 +10,8 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.390681
 color:
-  saturation: 0.9982079
+  saturation: 0.4892473
   brandStrength: 0
   lightness: 0.7831541
   brandColors:
@@ -22,5 +21,6 @@ color:
     - '#C8C8C8'
     - '#7D7D7D'
   rhythmicContrast: 0.4713262
+typography_spectrum: 0.390681
 layout_spectrum: 0.327957
 name: sherrikauk
